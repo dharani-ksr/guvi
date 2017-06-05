@@ -16,5 +16,9 @@ class fac
             }
             System.out.println(fact);
         }	
+        else
+        {
+            System.out.println("not valid");
+        }
     }
 }
