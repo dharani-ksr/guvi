@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class Non_rep
+class Non_rep1
 {
 public static void main(String args[])
 {
